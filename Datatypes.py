@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Sep 26 07:44:04 2019
 
-@author: Mukesh
-"""
 
 #######Strings###############
 #syntax for string is "  string or text " or ' text '
