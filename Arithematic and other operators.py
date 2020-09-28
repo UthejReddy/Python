@@ -1,14 +1,9 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Sep 26 07:43:00 2019
 
-@author: Mukesh
-"""
-#fn+f9
+
 #Operators
 
 #Arithmetic operators
-# fn+f9
+
 #consider
 a = 10
 b = 20
