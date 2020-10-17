@@ -1,5 +1,7 @@
-from matplotlib import pyplot as plt
 #multiple line graph
+
+#import libraries
+from matplotlib import pyplot as plt
 from matplotlib import style
 
 style.use('ggplot')
