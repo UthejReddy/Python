@@ -1,5 +1,9 @@
 ##Area plot
+
+##import libraries
 from matplotlib import pyplot as plt
+
+##create sample lists
 days=[1,2,3,4,5]
 
 sleeping=[4,5,6,12,7]
