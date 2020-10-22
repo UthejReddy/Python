@@ -1,9 +1,14 @@
 ##Pie_Chart
+
+##import libraries
 from matplotlib import pyplot as plt
+
+#create lists
 slices=[7,1,5,6]
 activities=['sleeping','eating','working','playing']
 cols=['c','m','g','r']
 
+#plot pie chart
 plt.pie(slices,
        labels=activities,
        colors=cols,
