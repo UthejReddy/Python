@@ -1,3 +1,6 @@
+#regular expression code to sort the statement
+
+#import library
 import re
 
 nameage = "Janice is 22 and Tom is 34 Amit is 23 Sham is 32 Shubham is 25"
