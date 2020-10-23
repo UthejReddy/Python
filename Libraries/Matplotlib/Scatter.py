@@ -1,5 +1,9 @@
 ##Scatter plot
+
+##import library
 from matplotlib import pyplot as plt
+
+##create list
 x=[1,5,7,2,9,6,4,5,6,4]
 y=[4,4,5,6,12,4,5,6,5,4]
 
