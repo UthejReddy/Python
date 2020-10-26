@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Sep 26 17:56:52 2019
 
-@author: Mukesh
-"""
 
 # Importing necessary libraries
 import pandas as pd # importing pandas = > useful for creating dataframes
@@ -151,4 +146,4 @@ plt.plot(mtcars.mpg,"rs-") # scatter plot of single variable
 plt.plot(mtcars.mpg,"ro-")
 plt.scatter(mtcars.mpg,mtcars.qsec)## scatter plot of two variables
 
-help(plt.plot) # explore different visualizations among the scatter plot
+help(plt.plot) # explore different visualizations using scatter plot
