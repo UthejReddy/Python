@@ -1,10 +1,9 @@
 
 
 #######Strings###############
-#syntax for string is "  string or text " or ' text '
 
 #Accesing Value in Strings    or slicing the values
-Name = "excelr"    #positive and negative formats
+Name = "excelr"    
 
  # e x c e l r  
  # 0 1 2 3 4 5
